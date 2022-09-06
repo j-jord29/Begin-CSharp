@@ -1,0 +1,2 @@
+C:\Users\Jack\Documents\Programming\C#\BeginToCodeWithCSharp_GettingStarted\BeginToCodeWithCSharp\BeginToCodeWithCSharp\BeginToCodeWithCSharp.csproj;x86
+C:\Users\Jack\Documents\Programming\C#\BeginToCodeWithCSharp_GettingStarted\BeginToCodeWithCSharp\Snaps\Snaps\Snaps.csproj;x86
